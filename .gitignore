@@ -1,0 +1,6 @@
+appx
+web
+.env
+migrate
+/ui/static/img/userimgs/
+/ui/static/img/wallhaven-zmomwo.png
